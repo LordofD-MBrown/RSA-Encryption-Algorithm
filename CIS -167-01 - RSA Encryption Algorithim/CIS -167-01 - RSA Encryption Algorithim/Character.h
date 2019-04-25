@@ -3,7 +3,6 @@ class Character
 {
 	int cycle; // the cycle
 	int number; // 1 - 34
-	char value; // character value
 
 public:
 	Character();
